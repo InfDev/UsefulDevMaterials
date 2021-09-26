@@ -4,6 +4,7 @@ site_url: https://example.com/
 # Repository
 repo_name: InfDev/UsefulDevMaterials
 repo_url: https://github.com/InfDev/UsefulDevMaterials
+edit_uri: edit/main/docs/
 
 # Copyright
 copyright: Авторские права &copy; 2021 Александр Шляхто
@@ -28,3 +29,12 @@ theme:
 # Навигация
 nav:
   - Дом: index.md
+  - Общие:
+      - general/documenting/index.md
+      - Стандарты:
+          - general/standards/index.md
+  - .NET: .net/index.md
+  - Python: python/index.md
+  - Системные: system-tools/index.md
+  - Навыки:
+      - general-skills/index.md
