@@ -1,0 +1,30 @@
+site_name: ИТ материалы
+site_url: https://example.com/
+
+# Repository
+repo_name: InfDev/UsefulDevMaterials
+repo_url: https://github.com/InfDev/UsefulDevMaterials
+
+# Copyright
+copyright: Авторские права &copy; 2021 Александр Шляхто
+
+# Configuration
+theme:
+  name: material
+  language: ru
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Перейти в темный режим
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Перейти в светлый режим
+  features:
+    - navigation.tabs
+    - navigation.top
+
+# Навигация
+nav:
+  - Дом: index.md
