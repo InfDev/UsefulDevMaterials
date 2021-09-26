@@ -38,6 +38,16 @@ nav:
           - general/standards/naming-conventions.md
           - general/standards/openapi.md
       - general/types-of-licenses.md
+      - general/programming-paradigms.md
+      - "Объектно-ориентированное программирование":
+          - general/oop/index.md
+          - general/oop/solid.md
+      - general/programming-paradigms.md
+      - general/design-patterns.md
+      - general/refactoring.md
+      - general/resources.md
+      - general/cron-expressions.md
+      - general/e-commerce.md
   - .NET: .net/index.md
   - Python: python/index.md
   - Системные: system-tools/index.md
