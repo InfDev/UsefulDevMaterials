@@ -6,7 +6,7 @@
 - [10 минутный урок (en)](https://commonmark.org/help/tutorial/)
 - Стандартная, однозначная синтаксическая [спецификация для Markdown](https://spec.commonmark.org/)
 
-## Краткая помощь на русском
+## Шпаргалка
 
 <html>
   <style>

@@ -62,7 +62,8 @@ nav:
       - dotnet/development-tools.md
       - dotnet/csharp.md
       - dotnet/csharp-practices-2021.md
-  - Python: python/index.md
+  - Python:
+      - python/index.md
   - Системные: system-tools/index.md
   - Навыки:
       - general-skills/index.md
