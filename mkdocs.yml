@@ -30,7 +30,16 @@ theme:
 nav:
   - Дом: index.md
   - Общие:
-      - general/documenting/index.md
+      - Документирование:
+          - general/documenting/index.md
+          - general/documenting/gendoc-mkdocs.md
+          - general/documenting/gendoc-docfx.md
+          - general/documenting/gendoc-sphinx.md
+          - general/documenting/markdown.md
+          - general/documenting/markdown-commonmark.md
+          - general/documenting/markdown-github.md
+          - general/documenting/markdown-here.md
+          - general/documenting/html-special-characters.md
       - Стандарты:
           - general/standards/index.md
           - general/standards/what-standards-to-follow.md
@@ -48,7 +57,11 @@ nav:
       - general/resources.md
       - general/cron-expressions.md
       - general/e-commerce.md
-  - .NET: .net/index.md
+  - .NET:
+      - dotnet/index.md
+      - dotnet/development-tools.md
+      - dotnet/csharp.md
+      - dotnet/csharp-practices-2021.md
   - Python: python/index.md
   - Системные: system-tools/index.md
   - Навыки:
