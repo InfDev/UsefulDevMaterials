@@ -71,4 +71,4 @@ _Подробнее:_
 - [D: Принцип инверсии зависимостей](https://refactoring.guru/ru/didp/principles/solid-principles/dip)
 - [Разбираемся с SOLID: Инверсия зависимостей](https://habr.com/ru/post/313796/)
 
-![DIP](/images/general/oop/dip.jpg)
+![DIP](img/dip.jpg)
