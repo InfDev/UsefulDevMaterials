@@ -7,7 +7,7 @@ repo_url: https://github.com/InfDev/UsefulDevMaterials
 edit_uri: edit/main/docs/
 
 # Copyright
-copyright: Авторские права &copy; 2021 Александр Шляхто
+copyright: Авторские права &copy; 2019-2021 Александр Шляхто
 
 # Configuration
 theme:
@@ -42,9 +42,9 @@ nav:
       - "Объектно-ориентированное программирование":
           - general/oop/index.md
           - general/oop/solid.md
-      - general/programming-paradigms.md
       - general/design-patterns.md
       - general/refactoring.md
+      - general/automation-with-docker.md
       - general/resources.md
       - general/cron-expressions.md
       - general/e-commerce.md
