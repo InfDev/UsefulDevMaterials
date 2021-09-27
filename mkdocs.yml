@@ -64,7 +64,10 @@ nav:
       - dotnet/csharp-practices-2021.md
   - Python:
       - python/index.md
-  - Системные: system-tools/index.md
+  - Системные:
+      - system-tools/windows-terminal.md
+      - system-tools/powershell-core.md
+      - system-tools/git-for-windows.md
   - Навыки:
       - general-skills/index.md
       - general-skills/ukrainian-language.md
