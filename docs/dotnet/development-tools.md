@@ -18,9 +18,11 @@ uid: development-tools
 
 [Visual Studio Code](https://code.visualstudio.com/) - это легкий, но мощный редактор исходного кода, который работает на вашем рабочем столе и доступен для Windows, macOS и Linux. Он поставляется со встроенной поддержкой JavaScript, TypeScript и Node.js и имеет богатую экосистему расширений для других языков (таких как C++, C#, Java, Python, PHP, Go) и сред выполнения (таких как .NET и Unity).
 
-## GitHub
+## Git & GitHub
 
-- [GitHub](https://guides.github.com/) - крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки.
+См. раздел [Системные\Git & GitHub](../system-tools/git-and-github.md)
+
+- [GitHub](https://guides.github.com/) -
 - [GitHub-шпаргалка](https://training.github.com/downloads/ru/github-git-cheat-sheet/) - установка, настройка и использование.
 - [Что такое Git? Зачем он нужен? - канал Sergey Nemchinskiy](https://www.youtube.com/watch?v=adHqyxdWWRM)
 

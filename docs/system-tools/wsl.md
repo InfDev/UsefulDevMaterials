@@ -18,6 +18,7 @@
 - [Основные linux-команды для новичка](https://habr.com/ru/post/501442/)
 - [Шпаргалка по основным командам Bash](https://medium.com/nuances-of-programming/шпаргалка-по-основным-командам-bash-82f4cc60235b)
 - [Сответствие консольных команд Windows и Linux](https://white55.ru/cmd-sh.html)
+- [chmod - команда для изменения прав доступа к файлам и каталогам](https://ru.wikipedia.org/wiki/Chmod)
 
 ## Написание скриптов
 

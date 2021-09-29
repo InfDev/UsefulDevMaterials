@@ -69,7 +69,7 @@ nav:
       - system-tools/wsl.md
       - system-tools/powershell-core.md
       - system-tools/cmd-windows.md
-      - system-tools/git-for-windows.md
+      - system-tools/git-and-github.md
   - Навыки:
       - general-skills/index.md
       - general-skills/ukrainian-language.md
