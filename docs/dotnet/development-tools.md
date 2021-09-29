@@ -22,10 +22,6 @@ uid: development-tools
 
 См. раздел [Системные\Git & GitHub](../system-tools/git-and-github.md)
 
-- [GitHub](https://guides.github.com/) -
-- [GitHub-шпаргалка](https://training.github.com/downloads/ru/github-git-cheat-sheet/) - установка, настройка и использование.
-- [Что такое Git? Зачем он нужен? - канал Sergey Nemchinskiy](https://www.youtube.com/watch?v=adHqyxdWWRM)
-
 ## NuGet
 
 [NuGet](https://www.nuget.org/) - менеджер пакетов для .NET. Инструменты клиента NuGet предоставляют возможность создавать и потреблять пакеты. NuGet Gallery - это центральное хранилище пакетов, используемое всеми авторами и потребителями пакетов.
