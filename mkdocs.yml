@@ -66,9 +66,9 @@ nav:
       - python/index.md
   - Системные:
       - system-tools/windows-terminal.md
+      - system-tools/wsl.md
       - system-tools/powershell-core.md
       - system-tools/cmd-windows.md
-      - system-tools/bash.md
       - system-tools/git-for-windows.md
   - Навыки:
       - general-skills/index.md
