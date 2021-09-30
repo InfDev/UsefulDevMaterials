@@ -62,6 +62,7 @@ nav:
       - dotnet/development-tools.md
       - dotnet/csharp.md
       - dotnet/csharp-practices-2021.md
+      - dotnet/examples-fs.md
   - Python:
       - python/index.md
   - Системные:

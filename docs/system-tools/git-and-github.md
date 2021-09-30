@@ -6,6 +6,7 @@
 
 - [Документация - git-scm.com](https://git-scm.com/book/ru/v2)
 - [Git для Windows](https://gitforwindows.org/) - предлагает легкий, собственный набор инструментов, которые предоставляют полный набор функций Git SCM для Windows, обеспечивая при этом соответствующие пользовательские интерфейсы как для опытных пользователей Git, так и для новичков. Включает утилиту командной строки **Git Bash** и **GUI-приложение**.
+- [Git How To](https://githowto.com/ru) - интерактивный тур, который познакомит вас с основами Git.
 - [Что такое Git? Зачем он нужен? - канал Sergey Nemchinskiy](https://www.youtube.com/watch?v=adHqyxdWWRM)
 - [Git для новичков - habr.com](https://habr.com/ru/post/541258/)
 
@@ -20,3 +21,5 @@
 - [GitHub Desktop. Документация](https://docs.github.com/en/desktop)
 
 ## Локальные Git-сервера
+
+- [Git на сервере](https://git-scm.com/book/ru/v2/Git-на-сервере-Протоколы)
