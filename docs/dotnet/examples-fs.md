@@ -14,19 +14,10 @@
 > - [kthompson/glob](https://github.com/kthompson/glob/)
 > - [mganss/Glob.cs](https://github.com/mganss/Glob.cs)
 
-Файл .ignore
+=== Program.cs
 
-```text
-bin/
-obj/
-.git/
-.vs/
-.vscode/
-```
+```csharp hl_lines="18-24"
 
-Program.cs
-
-```csharp
 using System;
 using System.IO;
 using System.Threading.Tasks;
@@ -48,12 +39,23 @@ namespace FS.Globing
             var matcher = new Matcher(StringComparison.OrdinalIgnoreCase);
             matcher.AddInclude("**/*");
             matcher.AddExcludePatterns(ignoreGlobs);
-
             // Execute the matcher the directory
-            var result = matcher.Execute(new DirectoryInfoWrapper(new DirectoryInfo(projectFolder)));
+            var result = matcher.Execute(
+                new DirectoryInfoWrapper(new DirectoryInfo(projectFolder)));
+
             foreach (var file in result.Files)
                 Console.WriteLine(file.Path);
         }
     }
 }
+```
+
+=== Файл .ignore
+
+```text
+bin/
+obj/
+.git/
+.vs/
+.vscode/
 ```

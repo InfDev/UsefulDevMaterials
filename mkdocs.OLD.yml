@@ -49,17 +49,10 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.tabbed
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
 
-# extra_css:
-#  - extra.css
 
-# Navigation
-
-nav:
+ # Навигация
+ nav:
   - Дом: index.md
   - Общие:
       - Документирование:
@@ -83,7 +76,6 @@ nav:
       - "Объектно-ориентированное программирование":
           - general/oop/index.md
           - general/oop/solid.md
-      - general\functional-programming.md
       - general/design-patterns.md
       - general/refactoring.md
       - general/automation-with-docker.md

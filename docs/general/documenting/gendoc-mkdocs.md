@@ -17,3 +17,17 @@ MkDocks требует установленного [Python](https://www.python.
 ## Установка с Docker
 
 Официальный [образ Docker : squidfunk/mkdocs-material](https://hub.docker.com/r/squidfunk/mkdocs-material/) - отличный способ начать работу за несколько минут.
+
+В составе образа версии 7.3 подключаются
+
+- [Python](https://www.python.org/) >= 3.9.2
+- [mkdocs](https://www.mkdocs.org/) >= 1.2.2
+- [markdown](https://python-markdown.github.io/) >= 3.2, [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax)
+- [Pygments](https://pygments.org/) >= 2.4
+- [pymdown-extensions](https://facelessuser.github.io/pymdown-extensions/) >= 9.0, [документация](https://facelessuser.github.io/pymdown-extensions/)
+- [mkdocs-material-extensions](https://pypi.org/project/mkdocs-material-extensions/) >= 1.0
+- [mkdocs-material](https://github.com/squidfunk/mkdocs-material/releases/tag/7.3.0) 7.3
+
+???+ question "Как добавить плагины в образ Docker?"
+
+    См. [здесь](https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker)
