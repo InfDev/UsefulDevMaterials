@@ -111,7 +111,7 @@ markdown_extensions:
 
 nav:
   - Начало:
-      - main.md
+      - index.md
       - trends-soft-development.md
   - Документирование:
       - documenting/main.md
