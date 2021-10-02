@@ -110,54 +110,55 @@ markdown_extensions:
 # Navigation
 
 nav:
-  - Дом: index.md
-  - Общие:
-      - Документирование:
-          - general/documenting/index.md
-          - general/documenting/gendoc-mkdocs.md
-          - general/documenting/gendoc-docfx.md
-          - general/documenting/gendoc-sphinx.md
-          - general/documenting/markdown.md
-          - general/documenting/markdown-commonmark.md
-          - general/documenting/markdown-github.md
-          - general/documenting/markdown-here.md
-          - general/documenting/html-special-characters.md
-      - Стандарты:
-          - general/standards/index.md
-          - general/standards/what-standards-to-follow.md
-          - general/standards/maintenance-standards.md
-          - general/standards/naming-conventions.md
-          - general/standards/openapi.md
-      - general/types-of-licenses.md
-      - general/programming-paradigms.md
-      - "Объектно-ориентированное программирование":
-          - general/oop/index.md
-          - general/oop/solid.md
-      - general\functional-programming.md
-      - general/design-patterns.md
-      - general/refactoring.md
-      - general/automation-with-docker.md
-      - general/resources.md
-      - general/cron-expressions.md
-      - general/e-commerce.md
+  - Начало:
+      - main.md
+      - trends-soft-development.md
+  - Документирование:
+      - documenting/main.md
+      - documenting/gendoc-mkdocs.md
+      - documenting/gendoc-docfx.md
+      - documenting/gendoc-sphinx.md
+      - documenting/markdown.md
+      - documenting/markdown-commonmark.md
+      - documenting/markdown-github.md
+      - documenting/markdown-here.md
+      - documenting/html-special-characters.md
+  - Стандарты:
+      - standards/main.md
+      - standards/what-standards-to-follow.md
+      - standards/maintenance-standards.md
+      - standards/naming-conventions.md
+      - standards/openapi.md
+      - standards/license-types.md
+  - Системы:
+      - system-tools/windows-terminal.md
+      - system-tools/powershell-core.md
+      - system-tools/cmd-windows.md
+      - system-tools/wsl.md
+      - system-tools/linux.md
+      - system-tools/git-and-github.md
+      - system-tools/docker.md
+  - Проектирование:
+      - designing/programming-paradigms.md
+      - designing/oop.md
+      - designing/oop.solid.md
+      - designing/functional-programming.md
+      - designing/design-patterns.md
+      - designing/refactoring.md
+      - designing/resources.md
   - .NET:
-      - dotnet/index.md
+      - dotnet/main.md
       - dotnet/development-tools.md
       - dotnet/csharp.md
       - dotnet/csharp-practices-2021.md
       - dotnet/examples-fs.md
   - Python:
       - python/index.md
-  - Системные:
-      - system-tools/windows-terminal.md
-      - system-tools/wsl.md
-      - system-tools/powershell-core.md
-      - system-tools/cmd-windows.md
-      - system-tools/git-and-github.md
-      - system-tools/docker.md
-      - system-tools/linux.md
+  - Разное:
+      - general/cron-expressions.md
+      - general/e-commerce.md
   - Навыки:
-      - general-skills/index.md
+      - general-skills/main.md
       - general-skills/ukrainian-language.md
       - general-skills//business-correspondence.md
       - general-skills/time-management.md

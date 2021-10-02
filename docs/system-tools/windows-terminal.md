@@ -4,4 +4,4 @@
 
 - [9 советов для Windows Terminal от Скотта Хансельмана](https://habr.com/ru/company/microsoft/blog/489620/)
 
-![Терминал Windows](img/wt.png)
+![Терминал Windows](./../assets/images/tools.windows-terminal.png)

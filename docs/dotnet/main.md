@@ -18,7 +18,7 @@ uid: .NET
 
 [.NET](https://dotnet.microsoft.com/) - это универсальная платформа разработки с открытым исходным кодом, поддерживаемая Microsoft и сообществом .NET на GitHub. Он кроссплатформенный, начиная с .NET 5 это уже только один .NET и его можно использовать для работы с Windows, Linux, macOS, iOS, Android, tvOS, watchOS и WebAssembly.
 
-![Cross Platform Development](img/cross-platform-development.jpg)
+![Cross Platform Development](./../assets/images/dotnet.cross-platform-development.jpg)
 
 Планируется выпускать основную версию .NET один раз в год, каждый ноябрь.
 

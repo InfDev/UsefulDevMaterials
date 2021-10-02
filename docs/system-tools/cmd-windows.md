@@ -1,4 +1,4 @@
-# CMD (Windows)
+# Windows CMD
 
 ## Общие сведения
 

@@ -1,4 +1,4 @@
-# Принципы SOLID
+# ООП. Принципы SOLID
 
 ## Общие сведения
 
@@ -71,4 +71,4 @@ _Подробнее:_
 - [D: Принцип инверсии зависимостей](https://refactoring.guru/ru/didp/principles/solid-principles/dip)
 - [Разбираемся с SOLID: Инверсия зависимостей](https://habr.com/ru/post/313796/)
 
-![DIP](img/dip.jpg)
+![DIP](./../assets/images/oop.solid-dip.jpg)

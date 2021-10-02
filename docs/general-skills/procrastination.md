@@ -16,4 +16,4 @@ _Подробнее:_
 
 - [Что такое прокрастинация и как с ней бороться](https://nebopro.ru/blog/prokrastinaciya/)
 
-![Прокрастинация](img/prokrastinaciya.jpg)
+![Прокрастинация](./../assets/images/tendencies.prokrastinaciya.jpg)
