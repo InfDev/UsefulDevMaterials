@@ -1,18 +1,20 @@
-# Генератор MkDocs
+# Генератор MkDocs & Material
 
-## О MkDocs
+## Общие сведения
 
-[MkDocs](https://www.mkdocs.org/) - это быстрый, простой и великолепный генератор статических сайтов, предназначенный для создания проектной документации. Исходные файлы документации пишутся на Markdown и настраивается с помощью одного файла конфигурации YAML. Он прост в использовании и может быть расширен сторонними темами, плагинами и расширениями Markdown.
+[Python MkDocs](https://www.mkdocs.org/) - это быстрый, простой и великолепный генератор статических сайтов, предназначенный для создания проектной документации. Исходные файлы документации пишутся на Markdown и настраивается с помощью одного файла конфигурации YAML. Он прост в использовании и может быть расширен сторонними темами, плагинами и расширениями Markdown.
+
+Больше, чем темой для MkDocs является [Material для MkDocs](https://squidfunk.github.io/mkdocs-material/), который уже включает полезные расширения для Markdown и предоставляет хорошую документацию по установке, настройке создаваемого сайта и публикации его на GitHub.
 
 ## Установка с pip
 
-MkDocks требует установленного [Python](https://www.python.org/).
+???+ info "pip - это система управления пакетами для Python"
 
-Прекрасной темой для MkDocs может быть [Material](https://squidfunk.github.io/mkdocs-material/). Она включает хорошую документацию по установке темы, настройке создаваемого сайта и публикации его на GitHub.
+    Перед установкой Material для MkDocs требуется установить [Python](https://www.python.org/downloads/).
 
-Перед установкой Material для MkDocs требуется установить [Python](https://www.python.org/downloads/).
+    `pip install mkdocs-material`
 
-Установка Material для MkDocs выполнится с совместимыми версиями всех зависимостей: MkDocs, Markdown, Pygments и Python Markdown Extensions. Material для MkDocs всегда стремится поддерживать последние версии, поэтому нет необходимости устанавливать эти пакеты отдельно.
+    Установка Material для MkDocs выполнится с совместимыми версиями всех зависимостей: MkDocs, Markdown, Pygments и Python Markdown Extensions. Material для MkDocs всегда стремится поддерживать последние версии, поэтому нет необходимости устанавливать эти пакеты отдельно.
 
 ## Установка с Docker
 
@@ -28,6 +30,4 @@ MkDocks требует установленного [Python](https://www.python.
 - [mkdocs-material-extensions](https://pypi.org/project/mkdocs-material-extensions/) >= 1.0
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material/releases/tag/7.3.0) 7.3
 
-???+ question "Как добавить плагины в образ Docker?"
-
-    См. [здесь](https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker)
+Подробнее [здесь](https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker) (и как добавить плагины в образ Docker?)

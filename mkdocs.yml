@@ -1,5 +1,8 @@
 site_name: ИТ материалы
 site_url: https://infdev.github.io/UsefulDevMaterials/
+site_author: Александр Шляхто
+site_description: >-
+  ИТ-материалы как шпаргалка для разработчика
 
 # Repository
 repo_name: InfDev/UsefulDevMaterials
@@ -13,6 +16,7 @@ copyright: Авторские права &copy; 2019-2021 Александр Ш�
 theme:
   name: material
   language: ru
+
   palette:
     - scheme: default
       toggle:
@@ -22,14 +26,52 @@ theme:
       toggle:
         icon: material/weather-night
         name: Перейти в светлый режим
+
   features:
+    - content.code.annotate
+    - content.tabs.link
+    # - header.autohide
+    # - navigation.expand
+    - navigation.indexes
+    - navigation.instant
+    - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
-    - navigation.instant
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    # - toc.integrate
+
+  # Было
+  #   - navigation.tabs
+  #   - navigation.tabs.sticky
+  #   - navigation.top
+  #   - navigation.instant
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+# Customization
+extra:
+  #  analytics:
+  #    provider: google
+  #    property: !ENV GOOGLE_ANALYTICS_KEY
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/InfDev
 
 # Extensions
 markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
   - toc:
       permalink: true
   - pymdownx.highlight:
@@ -53,10 +95,18 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.snippets
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: InfDev
+      repo: UsefulDevMaterials
+  - pymdownx.mark
+  - pymdownx.smartsymbols
 
 # extra_css:
 #  - extra.css
-
+# extra_javascript:
+#  - extra.js
 # Navigation
 
 nav:
@@ -104,6 +154,8 @@ nav:
       - system-tools/powershell-core.md
       - system-tools/cmd-windows.md
       - system-tools/git-and-github.md
+      - system-tools/docker.md
+      - system-tools/linux.md
   - Навыки:
       - general-skills/index.md
       - general-skills/ukrainian-language.md
