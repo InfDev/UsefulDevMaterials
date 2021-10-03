@@ -112,7 +112,10 @@ markdown_extensions:
 nav:
   - Начало:
       - index.md
+      - development-platforms.md
       - trends-soft-development.md
+      - trends-programming-languages.md
+      - how-to-find-work.md
   - Документирование:
       - documenting/main.md
       - documenting/gendoc-mkdocs.md
