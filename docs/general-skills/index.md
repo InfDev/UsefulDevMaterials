@@ -6,6 +6,9 @@
 
 - [Знания, Умения, Навыки и Способности](https://www.dekanblog.ru/2020/05/gimnastika-uma/znaniya-umeniya-navyki-i-sposobnosti/)
 - [ЗНАНИЯ, УМЕНИЯ, НАВЫКИ](http://trenerskaya.ru/article/view/znaniya-umeniya-navyki)
+- [Профессиональные и ключевые навыки для резюме. Умения в резюме + примеры](https://cv2you.com/blog/ru/kak-opisat-kluchevie-i-professionalniye-naviky-resume/)
+
+![Мягкие навыки](./../assets/images/soft-skills.jpg)
 
 ## Навык
 
@@ -29,9 +32,7 @@
 
 Термины hard и soft skills берут начало в военном деле. В 1959 году армия США начала разрабатывать научно обоснованный подход к подготовке военнослужащих. В ходе разработки исследователи выявили важность для военнослужащих не только профессиональных навыков (hard skills), но универсальных компетенций (soft skills), которые не поддаются планомерному обучению. Понимание различий между soft и hard skills было выражено в доктрине "Системы проектирования военной подготовки" 1968 года таким образом: hard skills являются навыками работы преимущественно с машинами, soft skills - навыками работы с людьми и бумагами. После того, как термины прижились в военной науке и психологии, они перешли в свободное употребление в сфере бизнеса. Сегодня в вакансиях, в том числе на русском и украинском языках, можно встретить вместо разделов "профессиональные навыки" и "личные качества" - hard skills и soft skills.
 
-## Общие ключевые навыки
-
-![Ключевые навыки](./../assets/images/skills.main.jpg)
+## Дополнительные ресурсы
 
 - [Перечень навыков soft-skills и способы их развития](https://www.cfin.ru/management/people/dev_val/soft-skills.shtml)
 - [7 шагов, чтобы улучшить свои навыки аналитического мышления](https://talentbridge.com/blog/7-steps-to-improve-your-analytical-thinking-skills/)
@@ -39,9 +40,6 @@
 - [Как повысить устные навыки общения](https://ru.wikihow.com/повысить-устные-навыки-общения)
 - [Организационные навыки, которые должен знать каждый](https://azbyka.com.ua/organizatsiya-navykov-kotorye-dolzhen-znat-kazhdyj/)
 - [Как развить внимание: подробное руководство](https://blog.calltouch.ru/kak-razvit-vnimanie-podrobnoe-rukovodstvo/)
-
-## Дополнительные ресурсы
-
 - [Что такое навыки и как их определить?](https://wikigrowth.ru/razvitie/navyiki/)
 - [Какие навыки ценятся больше всего в любых профессиях](https://hh.ru/article/24181)
 - [Зачем инженеру soft skills](https://habr.com/ru/company/epam_systems/blog/418621/)
