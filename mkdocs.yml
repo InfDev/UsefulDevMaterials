@@ -121,7 +121,7 @@ nav:
       - trends-programming-languages.md
       - how-to-find-work.md
   - Документирование:
-      - documenting/main.md
+      - documenting/index.md
       - documenting/gendoc-mkdocs.md
       - documenting/gendoc-docfx.md
       - documenting/gendoc-sphinx.md
@@ -131,7 +131,7 @@ nav:
       - documenting/markdown-here.md
       - documenting/html-special-characters.md
   - Стандарты:
-      - standards/main.md
+      - standards/index.md
       - standards/what-standards-to-follow.md
       - standards/maintenance-standards.md
       - standards/naming-conventions.md
@@ -154,7 +154,7 @@ nav:
       - designing/refactoring.md
       - designing/resources.md
   - .NET:
-      - dotnet/main.md
+      - dotnet/index.md
       - dotnet/development-tools.md
       - dotnet/csharp.md
       - dotnet/csharp-practices-2021.md
@@ -165,7 +165,7 @@ nav:
       - general/cron-expressions.md
       - general/e-commerce.md
   - Навыки:
-      - general-skills/main.md
+      - general-skills/index.md
       - general-skills/ukrainian-language.md
       - general-skills//business-correspondence.md
       - general-skills/time-management.md
