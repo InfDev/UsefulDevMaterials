@@ -23,10 +23,14 @@ theme:
     #    accent: deep purple
 
     - scheme: default
+      primary: blue grey
+      accent: blue grey
       toggle:
         icon: material/weather-sunny
         name: Перейти в темный режим
-    - scheme: dracula
+    - scheme: slate
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/weather-night
         name: Перейти в светлый режим
@@ -49,13 +53,6 @@ theme:
     - search.share
     - search.suggest
     # - toc.integrate
-
-  # Было
-  #   - navigation.tabs
-  #   - navigation.tabs.sticky
-  #   - navigation.top
-  #   - navigation.instant
-
   # Don't include MkDocs' JavaScript
   include_search_page: false
   search_index_only: true
@@ -84,7 +81,7 @@ markdown_extensions:
       use_pygments: true
       linenums: true
       linenums_style: table
-  - pymdownx.inlinehilite
+  #  - pymdownx.inlinehilite
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -110,10 +107,10 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.smartsymbols
 
-extra_css:
-  - assets/css/extra.css
-extra_javascript:
-  - assets/js/extra.js
+#extra_css:
+#  - assets/css/extra.css
+#extra_javascript:
+#  - assets/js/extra.js
 
 # Navigation
 nav:
