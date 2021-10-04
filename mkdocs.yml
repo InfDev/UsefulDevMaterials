@@ -120,6 +120,13 @@ nav:
       - trends-soft-development.md
       - trends-programming-languages.md
       - how-to-find-work.md
+  - Навыки:
+      - general-skills/index.md
+      - general-skills/time-management.md
+      - general-skills/ukrainian-language.md
+      - general-skills/english-language.md
+      - general-skills//business-correspondence.md
+      - general-skills/procrastination.md
   - Документирование:
       - documenting/index.md
       - documenting/gendoc-mkdocs.md
@@ -164,9 +171,3 @@ nav:
   - Разное:
       - general/cron-expressions.md
       - general/e-commerce.md
-  - Навыки:
-      - general-skills/index.md
-      - general-skills/ukrainian-language.md
-      - general-skills//business-correspondence.md
-      - general-skills/time-management.md
-      - general-skills/procrastination.md
