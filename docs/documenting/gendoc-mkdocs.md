@@ -8,7 +8,7 @@
 
 ## Установка с pip
 
-???+ info "pip - это система управления пакетами для Python"
+!!! info "pip - это система управления пакетами для Python"
 
     Перед установкой Material для MkDocs требуется установить [Python](https://www.python.org/downloads/).
 
