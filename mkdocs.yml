@@ -126,7 +126,11 @@ nav:
       - general-skills/ukrainian-language.md
       - general-skills/english-language.md
       - general-skills//business-correspondence.md
-      - general-skills/procrastination.md
+      - "Мир и личность":
+          - general-skills/peace-and-personality/chasing-progress.md
+          - general-skills/peace-and-personality/professionalism.md
+          - general-skills/peace-and-personality/hierarchy-of-needs.md
+          - general-skills/peace-and-personality/procrastination.md
   - Документирование:
       - documenting/index.md
       - documenting/gendoc-mkdocs.md
