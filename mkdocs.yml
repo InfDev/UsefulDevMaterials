@@ -121,16 +121,19 @@ nav:
       - trends-programming-languages.md
       - how-to-find-work.md
   - Навыки:
-      - general-skills/index.md
-      - general-skills/time-management.md
-      - general-skills/ukrainian-language.md
-      - general-skills/english-language.md
-      - general-skills//business-correspondence.md
+      - skills/index.md
+      - skills/time-management.md
+      - skills/ukrainian-language.md
+      - skills/english-language.md
+      - skills//business-correspondence.md
+      - "Работа с ПК":
+          - skills/for-pc-users/about-pc.md
+          - skills/for-pc-users/pc-software.md
       - "Мир и личность":
-          - general-skills/peace-and-personality/chasing-progress.md
-          - general-skills/peace-and-personality/professionalism.md
-          - general-skills/peace-and-personality/hierarchy-of-needs.md
-          - general-skills/peace-and-personality/procrastination.md
+          - skills/peace-and-personality/chasing-progress.md
+          - skills/peace-and-personality/professionalism.md
+          - skills/peace-and-personality/hierarchy-of-needs.md
+          - skills/peace-and-personality/procrastination.md
   - Документирование:
       - documenting/index.md
       - documenting/gendoc-mkdocs.md
