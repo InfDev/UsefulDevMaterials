@@ -5,3 +5,5 @@
 Не забывайте и о своем здоровье.
 
 ![Папка](./../../assets/images/people-and-pc.jpg)
+
+![Упражнения](./../../assets/images/pc-exercises.jpg)
