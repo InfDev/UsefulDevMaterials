@@ -127,8 +127,10 @@ nav:
       - skills/english-language.md
       - skills//business-correspondence.md
       - "Работа с ПК":
+          - skills/for-pc-users/index.md
           - skills/for-pc-users/about-pc.md
           - skills/for-pc-users/pc-software.md
+          - skills/for-pc-users/work-with-documents-on-pc.md
           - skills/for-pc-users/common-apps.md
       - "Мир и личность":
           - skills/peace-and-personality/chasing-progress.md
