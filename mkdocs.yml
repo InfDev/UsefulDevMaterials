@@ -2,7 +2,7 @@ site_name: ИТ материалы
 site_url: https://infdev.github.io/UsefulDevMaterials/
 site_author: Александр Шляхто
 site_description: >-
-  ИТ-материалы как шпаргалка для разработчика
+  ИТ-материалы как шпаргалка для разработчика и пользователей ПК
 
 # Repository
 repo_name: InfDev/UsefulDevMaterials
@@ -132,6 +132,7 @@ nav:
           - skills/for-pc-users/pc-software.md
           - skills/for-pc-users/work-with-documents-on-pc.md
           - skills/for-pc-users/common-apps.md
+          - skills/for-pc-users/online-services.md
       - "Мир и личность":
           - skills/peace-and-personality/chasing-progress.md
           - skills/peace-and-personality/professionalism.md
