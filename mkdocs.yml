@@ -171,6 +171,12 @@ nav:
       - designing/design-patterns.md
       - designing/refactoring.md
       - designing/resources.md
+  - Веб:
+      - web/index.md
+      - web/html.md
+      - web/css.md
+      - web/javascript.md
+      - web/dev-tools.md
   - .NET:
       - dotnet/index.md
       - dotnet/development-tools.md

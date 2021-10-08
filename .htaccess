@@ -1,18 +1,69 @@
-<ifModule mod_rewrite.c>
-   RewriteEngine On
-   RewriteCond %{REQUEST_FILENAME} !\.(js|css|gif|jpg|jpeg|png|ico|swf|pdf|html|php|json|svg)$
-   RewriteCond %{REQUEST_URI} !^index
-   RewriteRule (.*) index.html [L]
-</ifModule>
+Options All -ExecCGI -Indexes -Includes +FollowSymLinks
 
-# https://dev.to/thejessleigh/quick-and-dirty-htaccess-for-small-personal-sites-2cfn
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteBase /
+    RewriteCond %{HTTP_HOST} ^mysite
+    RewriteRule (.*) http://www.black-web.ru/$1 [R=301,L]
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/
+    RewriteRule ^index\.html$ http://www.mysite.ru/ [R=301,L]
+</IfModule>
 
-RewriteEngine On
+DirectoryIndex index.html
 
-# Не требовать .html
-#RewriteCond %{REQUEST_FILENAME} !-d
-#RewriteCond %{REQUEST_FILENAME}\.html -f
-##RewriteRule ^(.*)$ $1.html
+<IfModule mod_setenvif.c>
+	SetEnv TZ Europe/Moscow
+</IfModule>
+ServerSignature Off
+
+<IfModule mod_gzip.c>
+    mod_gzip_on         Yes
+    mod_gzip_dechunk    Yes
+    mod_gzip_item_include file		\.(html?|txt|css|js|)$
+    mod_gzip_item_include mime		^text\.*
+    mod_gzip_item_include mime		^application/x-javascript.*
+    mod_gzip_item_exclude mime		^image\.*
+    mod_gzip_item_exclude rspheader	^Content-Encoding:.*gzip.*
+</IfModule>
+
+<ifModule mod_headers.c>
+    <FilesMatch "\.(html|htm)$">
+        Header set Cache-Control "max-age=43200"
+    </FilesMatch>
+    <FilesMatch "\.(js|css)$">
+        Header set Cache-Control "max-age=604800"
+    </FilesMatch>
+    <FilesMatch "\.(ico|gif|jpg|jpeg|png)$">
+        Header set Cache-Control "max-age=2592000"
+    </FilesMatch>
+
+</IfModule>
+
+
+# Bad Rquest
+ErrorDocument 400 /400.html
+# Authorization Required
+ErrorDocument 401 /index.html
+# Forbidden
+ErrorDocument 403 /index.html
+# Not found
+ErrorDocument 404 /index.html
+# Method Not Allowed
+ErrorDocument 405 /index.html
+# Request Timed Out
+ErrorDocument 408 /index.html
+# Request URI Too Long
+ErrorDocument 414 /index.html
+# Internal Server Error
+ErrorDocument 500 /index.html
+# Not Implemented
+ErrorDocument 501 /index.html
+# Bad Gateway 
+ErrorDocument 502 /index.html
+# Service Unavailable 
+ErrorDocument 503 /index.html
+# Gateway Timeout
+ErrorDocument 504 /index.html
 
 # Защита себя от кражи трафика
 RewriteCond %{HTTP_REFERER} !^$
@@ -26,8 +77,3 @@ RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
 # Скрыть .gitкаталог
 RedirectMatch 404 /\.git
 
-# Ограничить доступ к конфиденциальным файлам
-<Files .htaccess>
-  Order allow,deny
-  Deny from all
-</Files>
