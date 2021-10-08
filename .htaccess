@@ -1,0 +1,33 @@
+<ifModule mod_rewrite.c>
+   RewriteEngine On
+   RewriteCond %{REQUEST_FILENAME} !\.(js|css|gif|jpg|jpeg|png|ico|swf|pdf|html|php|json|svg)$
+   RewriteCond %{REQUEST_URI} !^index
+   RewriteRule (.*) index.html [L]
+</ifModule>
+
+# https://dev.to/thejessleigh/quick-and-dirty-htaccess-for-small-personal-sites-2cfn
+
+RewriteEngine On
+
+# Не требовать .html
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME}\.html -f
+##RewriteRule ^(.*)$ $1.html
+
+# Защита себя от кражи трафика
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http(s)?://(.+\.)?infdev\.com\.ua [NC]
+RewriteRule .*\.(jp(e)?g|gif|bmp|png)$ https://imgur.com/ZtXiCBw.gif [L,R]
+
+# Принудительно удалить www
+RewriteCond %{HTTP_HOST} ^www\.example\.com [NC]
+RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
+
+# Скрыть .gitкаталог
+RedirectMatch 404 /\.git
+
+# Ограничить доступ к конфиденциальным файлам
+<Files .htaccess>
+  Order allow,deny
+  Deny from all
+</Files>
