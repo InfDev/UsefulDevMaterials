@@ -25,11 +25,23 @@
 - [Подбор лучшего провайдера по адресу](http://www.multitest.ua/)
 - [Бесплатный онлайн конвертер](https://www.online-convert.com/ru/)
 - [Photopea](https://www.photopea.com/) - веб-редактор растрової графіки, розроблений українцем Іваном Куцкіром, що використовується для редагування зображень, ілюстрацій, веб-дизайну або конвертації між різними форматами зображення.
-- [Конвертер единиц](https://www.unitconverters.net/)
+- [Конвертер единиц - unitconverters.net](https://www.unitconverters.net/)
+- [Расчет стоимости недвижимости за 30 секунд - Увекон](https://www.uvecon.ua/ru/otsiniti-neruhomist.html)
+
+!!! info "Сборники калькуляторов"
+
+    - [Онлайн-калькуляторы - calc.by](https://calc.by/)
+    - [Каталог онлайн калькуляторов - allcalc.ru](https://allcalc.ru/)
+    - [Более 2000 бесплатных калькуляторах (англ.) - omnicalculator.com](https://www.omnicalculator.com/) - например: [Калькулятор артериального давления](https://www.omnicalculator.com/health/blood-pressure)
 
 Для продвинутых пользователей
 
 - [2IP](https://2ip.ua/ru/) - ваш IP, провайдер, система, а также тест скорости Интернет-соединения и многое другое
+- [Сетевые инструменты и другие сервисы - ukraine.com.ua](https://www.ukraine.com.ua/info/tools/)
+
+Для разработчиков
+
+- [Бесплатные онлайн-инструменты для разработчиков - freeformatter.com](https://www.freeformatter.com/)
 
 Ресурсы со списками и рейтингами
 

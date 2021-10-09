@@ -67,4 +67,5 @@ public static class CronExpression
 
 ## Додаткові матеріали
 
+- [Калькулятор CRON](https://www.ukraine.com.ua/info/tools/cron-editor/)
 - [Формування крон-виразів онлайн](https://www.freeformatter.com/cron-expression-generator-quartz.html)
