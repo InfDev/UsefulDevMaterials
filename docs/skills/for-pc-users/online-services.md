@@ -27,11 +27,14 @@
 - [Photopea](https://www.photopea.com/) - веб-редактор растрової графіки, розроблений українцем Іваном Куцкіром, що використовується для редагування зображень, ілюстрацій, веб-дизайну або конвертації між різними форматами зображення.
 - [Конвертер единиц - unitconverters.net](https://www.unitconverters.net/)
 - [Расчет стоимости недвижимости за 30 секунд - Увекон](https://www.uvecon.ua/ru/otsiniti-neruhomist.html)
+- [Справочник MSD. Пользовательская версия. Лучший источник медицинской информации - msdmanuals.com](https://msdmanuals.com/ru/дома)
+- [СПРАВОЧНИКИ MSD. Проверенный поставщик медицинской информации - msdmanuals.com](https://www.msdmanuals.com/ru/)
 
 !!! info "Сборники калькуляторов"
 
     - [Онлайн-калькуляторы - calc.by](https://calc.by/)
     - [Каталог онлайн калькуляторов - allcalc.ru](https://allcalc.ru/)
+    - [Медицинские калькулятор - medvestnik.ru](https://medvestnik.ru/calculators)
     - [Более 2000 бесплатных калькуляторах (англ.) - omnicalculator.com](https://www.omnicalculator.com/) - например: [Калькулятор артериального давления](https://www.omnicalculator.com/health/blood-pressure)
 
 Для продвинутых пользователей

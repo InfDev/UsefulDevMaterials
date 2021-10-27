@@ -2,6 +2,8 @@
 
 ## Мировые тренды
 
+- [Какие основные тенденции в разработке программного обеспечения, по вашему мнению, ожидаются в 2021 году? - Amit Agrawal](https://www.cisin.com/coffee-break/ru/trends/what-are-the-biggest-software-development-trends-you-see-going-into-2021.html)
+
 По материалам: [Software development trends in 2021 - Olivia Cuthbert](https://vocal.media/01/software-development-trends-in-2021-ncea0n0q6o) и не только
 
 1. Миграция в облако
