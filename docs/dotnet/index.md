@@ -4,6 +4,13 @@ uid: .NET
 
 # .NET-платформа
 
+- [.NET Начать - dotnet.microsoft.com](https://dotnet.microsoft.com/)
+- [Документация по .NET - docs.microsoft.com](https://docs.microsoft.com/ru-ru/dotnet/)
+- [.NET Core tutorials - dotnetcoretutorials.com](https://dotnetcoretutorials.com/) - блог Уэйда Гаусдена
+- [Entity Framework Core - entityframeworktutorial.net](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) - кроссплатформенная технология доступа к данным с открытым исходным кодом.
+- [Entity Framework Plus - entityframework-plus.net](https://entityframework-plus.net/) - бесплатное расширение для Entity Framework с открытым исходным кодом.
+- [GitHub Copilot - copilot.github.com](https://copilot.github.com/) - ваш программист-напарник. Инструмент, использующий искусственный интеллект (ИИ), чтобы помочь нам писать гораздо более существенные части кода.
+
 ## О платформах разработки
 
 Платформа разработки приложений представляет собой полный набор всех необходимых и взаимосвязанных инструментов. Эти инструменты позволяют разрабатывать приложения, развертывать и тем самым обновлять их. Она имеет функциональные возможности для всех этапов разработки, таких как проектирование, кодирование, развертывание, интеграция, тестирование и т.д.
