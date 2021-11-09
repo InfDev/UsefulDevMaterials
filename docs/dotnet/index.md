@@ -4,12 +4,19 @@ uid: .NET
 
 # .NET-платформа
 
-- [.NET Начать - dotnet.microsoft.com](https://dotnet.microsoft.com/)
 - [Документация по .NET - docs.microsoft.com](https://docs.microsoft.com/ru-ru/dotnet/)
-- [.NET Core tutorials - dotnetcoretutorials.com](https://dotnetcoretutorials.com/) - блог Уэйда Гаусдена
+- [.NET Get Started - dotnet.microsoft.com](https://dotnet.microsoft.com/)
+- [Документация по ASP.NET Core](https://docs.microsoft.com/ru-ru/aspnet/core/)
+- [.NET Core tutorials, блог Уэйда Гаусдена - dotnetcoretutorials.com](https://dotnetcoretutorials.com/)
+
+- [Документация по Entity Framework](https://docs.microsoft.com/ru-ru/ef/)
 - [Entity Framework Core - entityframeworktutorial.net](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) - кроссплатформенная технология доступа к данным с открытым исходным кодом.
 - [Entity Framework Plus - entityframework-plus.net](https://entityframework-plus.net/) - бесплатное расширение для Entity Framework с открытым исходным кодом.
+
+- [VisualStudioMagazine.com](https://visualstudiomagazine.com/) - новости, события, советы и инструкции, учебные пособия по экосистеме .NET
 - [GitHub Copilot - copilot.github.com](https://copilot.github.com/) - ваш программист-напарник. Инструмент, использующий искусственный интеллект (ИИ), чтобы помочь нам писать гораздо более существенные части кода.
+
+- [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 
 ## О платформах разработки
 
@@ -31,15 +38,21 @@ uid: .NET
 
 - [Политика поддержки .NET](https://dotnet.microsoft.com/platform/support/policy)
 
-## Основные свойства ASP.NET Core 5.0+
+## Основные свойства ASP.NET Core 6.0+
 
 ### Кроссплатформенность
 
+Унифицированная платформа для браузера, облака, настольных компьютеров, Интернета вещей и мобильных приложений, использующих одни и те же библиотеки .NET и возможность легко обмениваться кодом.
+
 Разработка для `Windows`, `Linux`, `macOS`, `iOS`, `Android`, `tvOS`, `watchOS` и `WebAssembly`.
 
-### Производительность при обработке запросов
+### Производительность
 
-.NET обладает хорошей производительностью при обработке запросов.
+.NET 6 - самая быстрая на сегодняшний день .NET.
+
+- [Улучшения производительности в .NET 6](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/)
+
+ASP.NET Core обладает хорошей производительностью при обработке запросов.
 
 _Подробнее:_
 
