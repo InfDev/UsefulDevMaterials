@@ -4,6 +4,11 @@ uid: .NET
 
 # .NET-платформа
 
+!!! info "Демонстрации"
+
+    - [Классификаторы](https://classifiers-ui.infdev.com.ua/) - демо веб-приложения и веб-сервиса
+    - [Исходники на Github](https://github.com/InfDev/CDPN.Classifiers)
+
 - [Документация по .NET - docs.microsoft.com](https://docs.microsoft.com/ru-ru/dotnet/)
 - [.NET Get Started - dotnet.microsoft.com](https://dotnet.microsoft.com/)
 - [Документация по ASP.NET Core](https://docs.microsoft.com/ru-ru/aspnet/core/)
