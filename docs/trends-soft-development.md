@@ -1,20 +1,10 @@
-# Тренды разработки ПО в 2021
+# Тренды разработки ПО
 
 ## Мировые тренды
 
-- [Какие основные тенденции в разработке программного обеспечения, по вашему мнению, ожидаются в 2021 году? - Amit Agrawal](https://www.cisin.com/coffee-break/ru/trends/what-are-the-biggest-software-development-trends-you-see-going-into-2021.html)
-
-По материалам: [Software development trends in 2021 - Olivia Cuthbert](https://vocal.media/01/software-development-trends-in-2021-ncea0n0q6o) и не только
-
-1. Миграция в облако
-2. Монополизму AWS (Amazon Web Services) конец: бросают вызов Azure и др.
-3. Миграция от Docker Swarm к Kubernetes
-4. Всемирное признание микросервисов
-5. Рост Python (в Украине C# и платформы .NET 5.0+).
-6. JavaScript пока является основным языком веб-разработки
-7. Предпочтение универсальным кроссплатформенным продуктам
-8. Развитие аутсорсинга
-9. Повышенное внимание к кибербезопасности и соблюдению требований к защите данных
+- [12 главных тенденций разработки программного обеспечения в 2022 году, за которыми стоит следить - англ., datasciencecentral.com, Avani Trivedi](https://www.datasciencecentral.com/top-12-software-development-trends-in-2022-you-must-watch-out/)
+- [Тенденції розвитку програмного забезпечення в 2022 році - getwox.com, Роб Джордон](https://www.getwox.com/uk/software-development-trends-in-2022/)
+- [Тренды и методы веб-разработки в 2022 - merehead.com, Юрий Мусиенко](https://merehead.com/ru/blog/dominating-web-development-trends-techniques-in-2022/)
 
 ## Cостояние инженеров-программистов на 2021 год
 
